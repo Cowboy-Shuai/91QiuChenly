@@ -1,6 +1,30 @@
-<a href="https://github.com/QiuChenly/InjectLib">
+<a href="https://github.com/QiuChenly/CoreInject">
 <img src="./style.svg" width="800" height="590">
 </a>
+
+# 通知
+
+本仓库现在仅作为一个索引, 列出三方镜像地址。
+
+为避免被爱好举报维权的此类开发者提供举报理由，现所有源码均镜像于其他服务器。
+
+但本页面使用说明等内容仍然有效。
+
+## 服务器镜像地址
+
+1. https://git.sr.ht/~qiuchenly/CoreInject
+
+### 下载方法
+1. 点击最新提交
+![alt text](imgs/imagea1.png)
+
+2. 点击这里下载最新的zip
+![alt text](imgs/imagea2.png)
+
+你也可以继续使用clone的方式进行同步。
+```bash
+git clone https://git.sr.ht/~qiuchenly/CoreInject --depth=1
+```
 
 ## 荣誉贡献榜
 ![GitHub contributors](https://img.shields.io/github/contributors/QiuChenly/InjectLib.svg?style=flat-square)
@@ -99,6 +123,24 @@ QQ群:
 同時, 我也是二次元南桐. 从台灣國立大學毕业的那一天, 我的青春永遠留在了高雄.
 
 對於肆意濫用法律的組織和個人,請將律師函發送至: 华盛顿特区第35大道林肯大街15号-501, John Albet收.
+
+## WHO IS QIUCHENLY?
+
+我是重生之人。
+
+一觉醒来，全球计算机技术水平下降了一万倍但我不变。
+
+原来我重生到了一个同名的人身上，在我醒来的时候，一道灵光从天灵盖中发出，脑海中听到了机械声音在提示我：已激活全球最强程序员系统。
+
+我哈哈大笑 终于、终于...! 
+
+秋城时代 沸腾期待！
+
+上一世，同学弃我，老师欺我，女友绿我，这一世，我将亲手夺回属于我的一切！
+
+是夜，我梦到300年前我被连夜召入宫，慈溪病榻临终之际，给我下达任务，誓要洗刷被八国联军掳掠的耻辱，如今我孤身一人，只能安静蛰伏，静待良机。如今最强程序员系统在手，虽千万人吾往矣！百年之约已到，我代表大清，回来向列强复仇了！
+
+我是重生之人，大脑意外觉醒绑定了全球最强程序员系统，所以破解App不在话下，因为都是系统帮我的。 然后慈溪托遗让我夺回八国联军抢走属于大清的一切，洗刷历史耻辱，所以破的大多都是外国软件，目前居住在华盛顿州 户籍是香港华裔。
 
 # ~~停更~~
 
